@@ -1,0 +1,14 @@
+/Users/user/Desktop/homework/taskdz1/bin/Debug/net7.0/taskdz1
+/Users/user/Desktop/homework/taskdz1/bin/Debug/net7.0/taskdz1.deps.json
+/Users/user/Desktop/homework/taskdz1/bin/Debug/net7.0/taskdz1.runtimeconfig.json
+/Users/user/Desktop/homework/taskdz1/bin/Debug/net7.0/taskdz1.dll
+/Users/user/Desktop/homework/taskdz1/bin/Debug/net7.0/taskdz1.pdb
+/Users/user/Desktop/homework/taskdz1/obj/Debug/net7.0/taskdz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/homework/taskdz1/obj/Debug/net7.0/taskdz1.AssemblyInfoInputs.cache
+/Users/user/Desktop/homework/taskdz1/obj/Debug/net7.0/taskdz1.AssemblyInfo.cs
+/Users/user/Desktop/homework/taskdz1/obj/Debug/net7.0/taskdz1.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/homework/taskdz1/obj/Debug/net7.0/taskdz1.dll
+/Users/user/Desktop/homework/taskdz1/obj/Debug/net7.0/refint/taskdz1.dll
+/Users/user/Desktop/homework/taskdz1/obj/Debug/net7.0/taskdz1.pdb
+/Users/user/Desktop/homework/taskdz1/obj/Debug/net7.0/taskdz1.genruntimeconfig.cache
+/Users/user/Desktop/homework/taskdz1/obj/Debug/net7.0/ref/taskdz1.dll
